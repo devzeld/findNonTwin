@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/twinGame.iml" filepath="$PROJECT_DIR$/twinGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nonTwinGame.iml" filepath="$PROJECT_DIR$/nonTwinGame.iml" />
     </modules>
   </component>
 </project>
